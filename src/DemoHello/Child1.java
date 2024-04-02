@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	Child1 c2=new Child1();
 	c2.m2();
 	c2.m3();
+	c2.m4();
 }
 }
