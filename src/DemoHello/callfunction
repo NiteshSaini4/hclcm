@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	c2.m2();
 	c2.m3();
 	c2.m4();
+	c2.m5();
 }
 }
